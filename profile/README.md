@@ -24,7 +24,7 @@
 | **Explains what you're looking at** | A lecture slide, a homework PDF, a stack trace, a chart, a circuit. If it's on your screen, you can ask about it. |
 | **Draws on your page** | Circles, arrows, struck-out slips and worked steps go straight onto the thing you asked about, not into a chat window. |
 | **Talks you through it** | Every lesson is read aloud in a natural voice, with the chalk keeping time. |
-| **Looks only when you ask** | Nothing is seen until you hold the keys. Then Frizzle takes one picture of the window you're asking about, and its server doesn't keep it. |
+| **Looks only when you ask** | Nothing is seen until you hold the keys. Then Frizzle takes one picture of your screen, and its server doesn't keep it. |
 
 ## Where things stand
 
