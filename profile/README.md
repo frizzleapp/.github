@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://frizzleapp.github.io/"><img src="https://raw.githubusercontent.com/frizzleapp/.github/main/profile/banner.jpg" alt="Frizzle. A teacher for whatever's on your screen." width="100%"></a>
+  <a href="https://heyfrizzle.com/"><img src="https://raw.githubusercontent.com/frizzleapp/.github/main/profile/banner.jpg" alt="Frizzle. A teacher for whatever's on your screen." width="100%"></a>
 </p>
 
 <h3 align="center">Hold two keys, ask out loud, and watch the chalk explain it.</h3>
@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://frizzleapp.github.io/"><img src="https://raw.githubusercontent.com/frizzleapp/.github/main/profile/demo.gif" alt="Frizzle working through a five-resistor circuit: it marks the currents on the printed figure, redraws the circuit as it simplifies, and writes each step underneath." width="720"></a>
+  <a href="https://heyfrizzle.com/"><img src="https://raw.githubusercontent.com/frizzleapp/.github/main/profile/demo.gif" alt="Frizzle working through a five-resistor circuit: it marks the currents on the printed figure, redraws the circuit as it simplifies, and writes each step underneath." width="720"></a>
 </p>
 
 <p align="center">
-  <a href="https://frizzleapp.github.io/"><b>Watch the film and see how it works</b></a>
+  <a href="https://heyfrizzle.com/"><b>Watch the film and see how it works</b></a>
 </p>
 
 ## What it does
@@ -29,4 +29,4 @@
 ## Where things stand
 
 Frizzle is for macOS 27 on Apple silicon. It's free to start, with Frizzle Pro for more lessons a day.
-The download opens soon at [frizzleapp.github.io](https://frizzleapp.github.io/).
+The download opens soon at [heyfrizzle.com](https://heyfrizzle.com/).
